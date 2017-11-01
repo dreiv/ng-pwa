@@ -1,0 +1,13 @@
+{
+  "static": {
+    "urls": {
+      "https://dreiv.github.io/ng-pwa/main.4e8b3a6bfde097baa202.bundle.js": "3cec9ef2fd747b5319f7620d0862cb77e79efe76",
+      "https://dreiv.github.io/ng-pwa/polyfills.515b58012ade71d73636.bundle.js": "90e8def70d663a510c6d6f6941cbeb76e1074dc8",
+      "https://dreiv.github.io/ng-pwa/sw-register.6819cd2c5fa25470ecf2.bundle.js": "50d549edfbd188ed199d8d0b079afa593202e3ea",
+      "https://dreiv.github.io/ng-pwa/inline.3da69476bbefc670253c.bundle.js": "0d389df2eefd5e09aaa863687e734c1dd34a37fd",
+      "https://dreiv.github.io/ng-pwa/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "https://dreiv.github.io/ng-pwa/index.html": "08e83afbf794d0f0349eea613f1db0413a4119c4"
+    },
+    "_generatedFromWebpack": true
+  }
+}
