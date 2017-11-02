@@ -4,9 +4,9 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --aot",
     "build": "ng build",
-    "build:ci": "ng build --target production --progress false --build-optimizer --base-href \"https://dreiv.github.io/ng-pwa/\"",
+    "build:ci": "ng build --target production --progress false --base-href \"https://dreiv.github.io/ng-pwa/\"",
     "lint": "ng lint --format=stylish --fix",
     "precommit": "npm run lint",
     "prepush": "npm run lint && ng build --aot true"
